@@ -1,0 +1,11 @@
+ai-engine/models/
+ai-engine/venv/
+ai-engine/__pycache__/
+ai-engine/.env
+
+frontend/node_modules/
+frontend/dist/
+
+backend/target/
+
+*.pyc

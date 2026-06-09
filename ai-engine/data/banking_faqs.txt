@@ -1,0 +1,287 @@
+Q: What is a bank?
+A: A bank is a financial institution that accepts deposits and provides loans.
+
+Q: What is a savings account?
+A: A savings account is used to save money and earn interest.
+
+Q: What is a current account?
+A: A current account is designed for frequent business transactions.
+
+Q: What is a fixed deposit?
+A: A fixed deposit is an investment where money is deposited for a fixed period at a fixed interest rate.
+
+Q: What is a recurring deposit?
+A: A recurring deposit allows customers to deposit a fixed amount every month.
+
+Q: What is NEFT?
+A: NEFT is a nationwide electronic fund transfer system.
+
+Q: What is RTGS?
+A: RTGS is a real-time gross settlement system used for high-value transactions.
+
+Q: What is IMPS?
+A: IMPS is an instant money transfer service available 24x7.
+
+Q: What is UPI?
+A: UPI is a real-time payment system that allows instant money transfers using mobile devices.
+
+Q: What is internet banking?
+A: Internet banking allows customers to perform banking transactions online.
+
+Q: What is mobile banking?
+A: Mobile banking allows customers to access banking services through mobile applications.
+
+Q: What is a debit card?
+A: A debit card allows customers to spend money directly from their bank account.
+
+Q: What is a credit card?
+A: A credit card allows customers to borrow money up to a credit limit for purchases.
+
+Q: What is a cheque?
+A: A cheque is a written order directing a bank to pay money.
+
+Q: What is a demand draft?
+A: A demand draft is a prepaid financial instrument issued by a bank.
+
+Q: What is a loan?
+A: A loan is money borrowed from a bank that must be repaid with interest.
+
+Q: What is a home loan?
+A: A home loan is used to purchase or construct a house.
+
+Q: What is a personal loan?
+A: A personal loan is an unsecured loan for personal expenses.
+
+Q: What is a car loan?
+A: A car loan is used to purchase a vehicle.
+
+Q: What is education loan?
+A: An education loan helps students finance higher education expenses.
+
+Q: What is interest?
+A: Interest is the cost of borrowing money or the reward for saving money.
+
+Q: What is simple interest?
+A: Simple interest is calculated only on the principal amount.
+
+Q: What is compound interest?
+A: Compound interest is calculated on both principal and accumulated interest.
+
+Q: What is a bank statement?
+A: A bank statement shows all transactions in an account during a specific period.
+
+Q: What is KYC?
+A: KYC stands for Know Your Customer and is used to verify customer identity.
+
+Q: Why is KYC important?
+A: KYC helps prevent fraud, money laundering, and identity theft.
+
+Q: What documents are required for KYC?
+A: Aadhaar Card, PAN Card, Passport, or Voter ID are commonly required.
+
+Q: What is PAN?
+A: PAN is a Permanent Account Number used for tax purposes.
+
+Q: What is Aadhaar?
+A: Aadhaar is a unique identification number issued to Indian residents.
+
+Q: What is a nominee?
+A: A nominee is a person authorized to receive account benefits after the account holder's death.
+
+Q: What is ATM?
+A: ATM is an Automated Teller Machine used for cash withdrawals and banking services.
+
+Q: What is ATM PIN?
+A: ATM PIN is a secret number used to authorize ATM transactions.
+
+Q: What should I do if my ATM card is lost?
+A: Immediately block the card and inform the bank.
+
+Q: What is a passbook?
+A: A passbook records all account transactions.
+
+Q: What is minimum balance?
+A: Minimum balance is the amount required to be maintained in an account.
+
+Q: What is overdraft?
+A: Overdraft allows customers to withdraw more money than available in their account.
+
+Q: What is EMI?
+A: EMI stands for Equated Monthly Installment used for loan repayments.
+
+Q: What is NPA?
+A: NPA stands for Non-Performing Asset where loan repayments are overdue.
+
+Q: What is SWIFT?
+A: SWIFT is a global network used for international money transfers.
+
+Q: What is IFSC code?
+A: IFSC is a unique code used to identify bank branches for electronic transfers.
+
+Q: What is MICR code?
+A: MICR is a code used for cheque processing.
+
+Q: What is net banking?
+A: Net banking allows banking transactions through a web browser.
+
+Q: What is digital banking?
+A: Digital banking provides banking services through digital channels.
+
+Q: What is a joint account?
+A: A joint account is shared by two or more individuals.
+
+Q: What is account balance?
+A: Account balance is the amount of money available in an account.
+
+Q: What is available balance?
+A: Available balance is the amount available for immediate withdrawal.
+
+Q: What is transaction ID?
+A: Transaction ID is a unique identifier for a banking transaction.
+
+Q: What is beneficiary?
+A: A beneficiary is a person who receives transferred funds.
+
+Q: What is fund transfer?
+A: Fund transfer is the movement of money from one account to another.
+
+Q: What is cash deposit?
+A: Cash deposit is adding cash to a bank account.
+
+Q: What is cash withdrawal?
+A: Cash withdrawal is taking cash out of a bank account.
+
+Q: What is locker facility?
+A: Locker facility allows customers to securely store valuables.
+
+Q: What is a bank branch?
+A: A bank branch is a physical office where banking services are provided.
+
+Q: What is customer ID?
+A: Customer ID is a unique number assigned by a bank.
+
+Q: What is account number?
+A: Account number uniquely identifies a customer's account.
+
+Q: What is e-statement?
+A: E-statement is an electronic version of a bank statement.
+
+Q: What is SMS banking?
+A: SMS banking allows banking services through text messages.
+
+Q: What is missed call banking?
+A: Missed call banking provides account information through missed calls.
+
+Q: What is contactless payment?
+A: Contactless payment allows transactions by tapping a card or device.
+
+Q: What is QR payment?
+A: QR payment allows payments by scanning a QR code.
+
+Q: What is RuPay card?
+A: RuPay is an Indian domestic card payment network.
+
+Q: What is Visa card?
+A: Visa is a global payment card network.
+
+Q: What is Mastercard?
+A: Mastercard is a worldwide payment card network.
+
+Q: What is banking fraud?
+A: Banking fraud is unauthorized activity aimed at stealing money.
+
+Q: How can I prevent banking fraud?
+A: Never share OTPs, PINs, or passwords.
+
+Q: What is OTP?
+A: OTP is a One-Time Password used for secure authentication.
+
+Q: What is phishing?
+A: Phishing is an attempt to steal sensitive information through fake messages.
+
+Q: What is cyber security in banking?
+A: Cyber security protects banking systems and customer information.
+
+Q: What is account freeze?
+A: Account freeze restricts transactions in an account.
+
+Q: What is dormant account?
+A: A dormant account has had no transactions for a long period.
+
+Q: What is account closure?
+A: Account closure permanently closes a bank account.
+
+Q: What is bank reconciliation?
+A: Bank reconciliation compares bank records with company records.
+
+Q: What is treasury management?
+A: Treasury management involves managing a bank's funds and investments.
+
+Q: What is liquidity?
+A: Liquidity refers to the availability of cash for transactions.
+
+Q: What is inflation?
+A: Inflation is the rise in prices of goods and services over time.
+
+Q: What is RBI?
+A: RBI is the Reserve Bank of India, the central bank of India.
+
+Q: What is CRR?
+A: CRR is the Cash Reserve Ratio maintained by banks with RBI.
+
+Q: What is SLR?
+A: SLR is the Statutory Liquidity Ratio maintained by banks.
+
+Q: What is repo rate?
+A: Repo rate is the rate at which RBI lends money to banks.
+
+Q: What is reverse repo rate?
+A: Reverse repo rate is the rate at which RBI borrows money from banks.
+
+Q: What is monetary policy?
+A: Monetary policy is RBI's strategy to control money supply and inflation.
+
+Q: What is financial inclusion?
+A: Financial inclusion ensures access to banking services for everyone.
+
+Q: What is priority sector lending?
+A: Priority sector lending targets important sectors like agriculture and MSMEs.
+
+Q: What is MSME?
+A: MSME stands for Micro, Small and Medium Enterprises.
+
+Q: What is merchant banking?
+A: Merchant banking provides financial services to businesses.
+
+Q: What is retail banking?
+A: Retail banking provides services directly to individual customers.
+
+Q: What is corporate banking?
+A: Corporate banking provides services to businesses and corporations.
+
+Q: What is investment banking?
+A: Investment banking helps companies raise capital and manage investments.
+
+Q: What is foreign exchange?
+A: Foreign exchange involves trading one currency for another.
+
+Q: What is exchange rate?
+A: Exchange rate is the value of one currency compared to another.
+
+Q: What is remittance?
+A: Remittance is the transfer of money to another person or location.
+
+Q: What is insurance?
+A: Insurance provides financial protection against risks.
+
+Q: What is bancassurance?
+A: Bancassurance is the sale of insurance products through banks.
+
+Q: What is mutual fund?
+A: A mutual fund pools money from investors to invest in securities.
+
+Q: What is SIP?
+A: SIP is a Systematic Investment Plan for regular mutual fund investments.
+
+Q: What is financial planning?
+A: Financial planning helps individuals manage money and achieve financial goals.
